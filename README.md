@@ -1,20 +1,20 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Amit Kumar Singh
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Physics lab
+<b> Experiment|     <b> Optical Time domain reflectometry signature interpretation 
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Amit Kumar Singh
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Rajkiya Engineering College Banda
+<b> Email id|     <b> ami721759@gmail.com 
+<b> Department |  <b> Information Technology.
 
 ### Contributors List
 
